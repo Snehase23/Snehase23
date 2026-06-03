@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm S E Sneha 
 
-<!--
-**Snehase23/Snehase23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Student based in Chennai.  
+Building practical AI and software solutions for real-world problems.
 
-Here are some ideas to get you started:
+## Tech Stack
+Python | Java | C | SQL | LangChain | ChromaDB | Streamlit | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+**Mental Health Wellness Bot** —  Retrieval-Augmented Generation (RAG) based conversational AI  
+Built with LangChain, ChromaDB, OpenAI APIs, Sentence Transformers & Streamlit
+
+## Connect
+[LinkedIn](https://linkedin.com/in/snehaelango-736744357)
+
+## Achievements
+- Winner – Multiple Hackathons & Technical Competitions
+- Received notable appreciation for developing functional prototypes with several projects receiving recognition in hackathons
+- AI Intern @ NeuroSpark 
+
+
+I enjoy working on technology driven solutions that address real-world problems and provide opportunities to learn, build and contribute.
