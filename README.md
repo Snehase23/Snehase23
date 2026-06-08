@@ -1,7 +1,5 @@
 # Hi, I'm S E Sneha 
-
-Computer Science Engineering Student based in Chennai.  
-Building practical AI and software solutions for real-world problems.
+I am a Computer Science student with practical experience in Artificial Intelligence, IoT, and software development through internships, projects, and hackathons. My experience includes AI training, an MSME internship focused on IoT applications, and the development of a mental health chatbot. I have also built functional prototypes for technical competitions, with several projects receiving recognition in hackathons. I enjoy working on technology-driven solutions that address real-world problems and provide opportunities to learn, build, and contribute.
 
 ## Tech Stack
 Python | Java | C | SQL | LangChain | ChromaDB | Streamlit | Git
